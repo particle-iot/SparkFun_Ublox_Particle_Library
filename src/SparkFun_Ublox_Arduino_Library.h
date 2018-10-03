@@ -35,7 +35,7 @@
 #include "WProgram.h"
 #endif
 
-#include <Wire.h>
+#include "application.h"
 
 
 //Platform specific configurations

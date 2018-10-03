@@ -1,4 +1,5 @@
-SparkFun Ublox Arduino Library
+Aaron's port of the SparkFun Ublox Arduino Library.  All credit goes to the
+people at SparkFun.
 ===========================================================
 
 ![SparkFun GPS-RTK - NEO-M8P-2](https://cdn.sparkfun.com/r/500-500/assets/parts/1/3/2/8/2/14980-Ublox_GPS-RTK__Qwiic__-_NEO-M8P-2-01.jpg)

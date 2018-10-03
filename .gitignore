@@ -1,0 +1,13 @@
+# Created by https://www.gitignore.io/api/joe
+
+### Joe ###
+# File backups
+*~
+# Gets created when joe crashes
+DEADJOE
+
+
+# End of https://www.gitignore.io/api/joe
+
+# Don't upload compiled code
+*.bin

@@ -21,7 +21,7 @@
   Go outside! Wait ~25 seconds and you should see your lat/long
 */
 
-#include <Wire.h> //Needed for I2C to GPS
+#include "application.h" //Needed for I2C to GPS
 
 #include "SparkFun_Ublox_Arduino_Library.h" //http://librarymanager/All#SparkFun_Ublox_GPS
 SFE_UBLOX_GPS myGPS;
